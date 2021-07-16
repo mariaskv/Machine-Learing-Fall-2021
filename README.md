@@ -1,1 +1,1 @@
-# Machine-Learing-Fall-2021
+Machine Learning Projects from UoA, Fall 2021
